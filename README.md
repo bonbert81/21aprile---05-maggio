@@ -1,2 +1,4 @@
 # 21aprile---05-maggio
-![GitHub Logo](/arima.png)
+![arima](/arima.png)
+![lstm](/lstm.png)
+![prophet](/prophet.png)
