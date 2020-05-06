@@ -15,4 +15,8 @@
 ![dim22-29](/dim22-29.png)
 ![pos22-29](/pos22-29.png)
 
-
+## After 15 days
+![tot_cas](/tot_cas.png)
+![dec](/dec.png)
+![dim](/dim_gua.png)
+![pos](/pos.png)
